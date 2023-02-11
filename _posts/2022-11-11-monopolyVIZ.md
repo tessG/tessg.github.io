@@ -14,7 +14,7 @@ A generative art engine that will create a unique image based on the outcome of 
 
 
 <video width="100%" height="auto"  autoplay controls>
-  <source src="assets/img/monopoly/monopoly_demo.mp4" type="video/mp4"/>
+  <source src="./assets/img/monopoly/monopoly_demo.mp4" type="video/mp4"/>
    
 Your browser does not support the video tag.
 </video>
