@@ -11,7 +11,15 @@ image: monopoly/monopoly.jpg
 <p>
 A generative art engine that will create a unique image based on the outcome of a single game of Monopoly. 
 </p>
-<a href="https://tessg.github.io/monopoly/" target="_blank">Try it</a>
+
+
+<video width="100%" height="auto"  autoplay controls>
+  <source src="assets/img/monopoly/monopoly_demo.mp4" type="video/mp4"/>
+   
+Your browser does not support the video tag.
+</video>
+
+<a href="https://tessg.github.io/monopoly/" target="_blank">[Try it] (looking for hosting)</a>
 <p>
 The algorithm folllows the rules of Monoply. Various shapes represent the different artefacts present in the game: the fields of the board, players and buildings. </p>
 
