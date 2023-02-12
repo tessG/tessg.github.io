@@ -22,11 +22,11 @@ Your browser does not support the video tag.
 </video>
 </td>
 <td style="border: 1px solid white">
-<video height="534" width="400"  autoplay controls>
-  <source src="./assets/img/monopoly/monopoly_demo1.mp4" type="video/mp4"/>
-   
-Your browser does not support the video tag.
-</video>
+
+<img width="90%" height="auto" src = "assets/img/monopoly/posters/7.jpg"/>
+<img width="90%" height="auto" src = "assets/img/monopoly/posters/8.jpg"/>
+<img width="90%" height="auto" src = "assets/img/monopoly/posters/9.jpg"/>
+<img width="90%" height="auto" src = "assets/img/monopoly/posters/10.jpg"/>
 </td>
  </tr>
 </table>
@@ -102,19 +102,24 @@ After some time, one agent will win a monopoly and inevitably this agent will dr
 ## Equilibrium
 
 When no one manages to get a monopoly, the initial equality between agents is maintained eternally. Or so it would seem. Neither wealth or powerty exists, and nothing can distrupt the cirle of money changing hands.
+<table>
 
-<!--
+<tbody>
+<tr>
+<td  style="border: 1px solid white">
+<img width="70%" height="auto" src = "assets/img/monopoly/posters/poster1.jpg"/>
+<img width="70%" height="auto" src = "assets/img/monopoly/posters/poster2.jpg"/>
+<img width="70%" height="auto" src = "assets/img/monopoly/posters/poster3.jpg"/>
+</td>
+<td  style="border: 1px solid white">
 
-<img width="100%" height="auto" src = "assets/img/monopoly/equi.png"/>
-
-
-<video width="100%" height="auto"  autoplay controls>
-  <source src="assets/img/monopoly/equilibrium.mp4" type="video/mp4"/>
-   
-Your browser does not support the video tag.
-</video>-->
-
-
+<img width="70%" height="auto" src = "assets/img/monopoly/posters/poster4.jpg"/>
+<img width="70%" height="auto" src = "assets/img/monopoly/posters/poster9.jpg"/>
+<img width="70%" height="auto" src = "assets/img/monopoly/posters/poster10.jpg"/>
+</td>
+</tr>
+</tbody>
+</table>
 ## Red
 
 <table>
