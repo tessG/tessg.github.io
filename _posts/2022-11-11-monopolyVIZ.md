@@ -10,21 +10,18 @@ image: monopoly/monopoly.jpg
 
 <p>
 A generative art engine that will create a unique image based on the outcome of a single game of Monopoly. 
-The algorithm folllows the rules of Monoply. Various shapes represent the different artefacts present in the game: the fields of the board, players and buildings. </p>
-
-<p>
-  A student of mine explained his reservarions towards this traditional western world game. He said "I hate it. It goes on forever. Even after the winner is found."</p>
-  <p>
-  He is right, I thought. Monopoly really shows how, in capitalist society, those who own get fatter on behalf of those who rent. As a looser, there is no way you will get back into the game. But the game makes sure you have just enough to keep you alive so you can continue paying your rent for much longer than nessecary.
-  </p>
+The algorithm folllows the rules of Monoply. Various shapes represent the different artefacts present in the game: the fields of the board, players and buildings. 
+</p>
+The canvas becomes a real estate market where the color of the rich eventually takes over.
 
 
-<video height="534" width="400"  autoplay controls>
+<div style="text-align: center;">
+<video height="534" width="400" autoplay controls>
   <source src="./assets/img/monopoly/monopoly_demo2.mp4" type="video/mp4"/>
    
 Your browser does not support the video tag.
 </video>
-
+</div>
 <table>
   <tr>
     <td style="border: 1px solid white">
@@ -45,11 +42,10 @@ Your browser does not support the video tag.
 
 
 
-<h3>Hierarchy</h3>
+<h3>Hierarchy or Equlity</h3>
 After some time, one agent will win a monopoly and inevitably this agent will drain the rest, turning them into tiny dots before they disappear. 
-<h3> Equilibrium</h3>
-When no one manages to get a monopoly, the initial equality between agents is maintained eternally. Or so it would seem. Neither wealth or powerty exists, and nothing can distrupt the cirle of money changing hands.
-
+Without getting first to the best monopolies, there is no way you will get back into the game. Still the game makes sure you have just enough to continue playing long after the winner is found.
+Occasionally no one manages to get a monopoly, the initial equality persists. Neither wealth or powerty exists, and nothing can distrupt the cirle of money changing hands.
 <img width="100%" height="auto" src = "assets/img/monopoly/frame-75302022-11-27.png"/>
 
 
