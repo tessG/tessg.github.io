@@ -12,18 +12,24 @@ image: monopoly/monopoly.jpg
 A generative art engine that will create a unique image based on the outcome of a single game of Monopoly. 
 </p>
 
-
-<video height="800" width="600"  autoplay controls>
+<table>
+  <tr>
+    <td style="border: 1px solid white">
+<video height="534" width="400"  autoplay controls>
   <source src="./assets/img/monopoly/monopoly_demo2.mp4" type="video/mp4"/>
    
 Your browser does not support the video tag.
 </video>
-<video height="800" width="600"  autoplay controls>
+</td>
+<td style="border: 1px solid white">
+<video height="534" width="400"  autoplay controls>
   <source src="./assets/img/monopoly/monopoly_demo1.mp4" type="video/mp4"/>
    
 Your browser does not support the video tag.
 </video>
-
+</td>
+ </tr>
+</table>
 
 <a href="https://tessg.github.io/monopoly/" target="_blank">[Try it] (looking for hosting)</a>
 <p>
