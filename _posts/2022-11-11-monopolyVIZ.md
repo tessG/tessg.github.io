@@ -9,10 +9,14 @@ image: monopoly/monopoly.jpg
 
 
 <p>
-A generative art engine that will create a unique image based on the outcome of a single game of Monopoly. 
-The algorithm folllows the rules of Monoply. Various shapes represent the different artefacts present in the game: the fields of the board, players and buildings. 
+A generative art engine that will create a unique image based on the outcome of a scramble for property on the real estate market.
+The canvas becomes a real estate market where the financially successful will increase their possesion while inevitably draining all other players, turning them into tiny dots before they disappear. 
+
+Once a ranking between the players has been established, it is almost impossible to shift the balance. Still the game makes sure the loosers have just enough to continue playing long after the winner is found.
+
+The algorithm follows the rules of Monopoly. Shapes represent the artefacts of the classic board game: the fields, players and buildings. 
 </p>
-The canvas becomes a real estate market where the color of the rich eventually takes over.
+
 
 
 <div style="text-align: center;">
@@ -43,8 +47,8 @@ Your browser does not support the video tag.
 
 
 <h3>Hierarchy or Equlity</h3>
-After some time, one agent will win a monopoly and inevitably this agent will drain the rest, turning them into tiny dots before they disappear. 
-Without getting first to the best monopolies, there is no way you will get back into the game. Still the game makes sure you have just enough to continue playing long after the winner is found.
+
+
 Occasionally no one manages to get a monopoly, the initial equality persists. Neither wealth or powerty exists, and nothing can distrupt the cirle of money changing hands.
 <img width="100%" height="auto" src = "assets/img/monopoly/frame-75302022-11-27.png"/>
 
