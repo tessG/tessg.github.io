@@ -16,6 +16,7 @@ image: EKDecoded/EKDecoded.png
             Standing in her studio in front of a blank sheet of graph paper, she would ask a question to the cosmos, and her pendulum would catch the 'response' in the form of energetic forces.  She would then document the pendulum’s movements with crayon on the paper, conveying mathematical and spiritual laws of life. She would work non-stop untill the drawing was done, often through the night.</p>
 
 <img src="assets/img/EKDecoded/EKstudioportrait.jpg" width="50%" height="auto">
+<img src="assets/img/EKDecoded/EKcollection.png" width="50%" height="auto">
 
 
 <p>For Kunz, art was a means not an end. She used the drawings as tools of energy in her work as a healer.The drawings are untitled, undated and undescribed, so when we look at her drawings today, all we know is that for her, each represent a divine answer from the Spirit. 
@@ -66,25 +67,136 @@ This dimension of movement sheds light on the process with which the drawings we
                             </li>
  <table>
   <tr>
-    <td style="border: 1px solid white">
-<img src="assets/img/EKDecoded/EK1_error.png">
-<img src="assets/img/EKDecoded/EK2_error.png">
+   <td style="border: 1px solid white" >
+      
+<img src="assets/img/EKDecoded/EK117.png" width="200px" height="auto">
+
+
+</td>
+
+<td style="border: 1px solid white">
+<img src="assets/img/EKDecoded/EK1_error_small.png" width="300px" height="auto">
+
 </td>
  <td style="border: 1px solid white">
-<img src="assets/img/EKDecoded/EKX_error.jpg">
-<img src="assets/img/EKDecoded/EK6_error.png">
+   <img src="assets/img/EKDecoded/EK1_error2.png" width="300px" height="auto">
+
 </td>
 </tr>
+
+
+<tr>
+   <td style="border: 1px solid white" >
+      
+
+<img src="assets/img/EKDecoded/EK2_original.png" width="200px" height="auto">
+
+</td>
+
+<td style="border: 1px solid white">
+
+<img src="assets/img/EKDecoded/EK2_error2.jpg" width="200px" height="auto">
+</td>
+ <td style="border: 1px solid white">
+<img src="assets/img/EKDecoded/EK2_error4.png" width="200px" height="auto">
+
+
+</td>
+</tr>
+
+
+<tr>
+   <td style="border: 1px solid white" >
+      
+
+<img src="assets/img/EKDecoded/EK3_original.png" width="200px" height="auto">
+
+</td>
+
+<td style="border: 1px solid white">
+
+<img src="assets/img/EKDecoded/EK3_error1.png" width="200px" height="auto">
+</td>
+ <td style="border: 1px solid white">
+
+   <video height="200" width="200" autoplay="autoplay">
+  <source src="./assets/img/EKDecoded/EK3_ani.mp4" type="video/mp4"/>
+   
+Your browser does not support the video tag.
+</video>
+
+
+</td>
+</tr>
+
+
+
+
+
+
+
+
+
+
 <tr>
   <td style="border: 1px solid white">
-<img src="assets/img/EKDecoded/EK5_error.jpg">
-<img src="assets/img/EKDecoded/EK3_error.png">
+
+
+<img src="assets/img/EKDecoded/EK11_error.png">
+
 </td>
  <td style="border: 1px solid white">
 <img src="assets/img/EKDecoded/EK8_error.png">
-<img src="assets/img/EKDecoded/EK11_error.png">
+
 </td>
 </tr>
+
+
+<tr>
+  <td style="border: 1px solid white">
+<img src="assets/img/EKDecoded/EK5_error.jpg">
+
+
+</td>
+ <td style="border: 1px solid white">
+
+
+</td>
+</tr>
+
+
+
+
+
+
+<tr>
+  <td style="border: 1px solid white">
+
+
+<img src="assets/img/EKDecoded/EKX_error_small.jpg" width="300px" height="auto">
+
+</td>
+ <td style="border: 1px solid white">
+<img src="assets/img/EKDecoded/EK6_error.png">
+
+</td>
+</tr>
+
+
+<tr>
+  <td style="border: 1px solid white">
+
+
+</td>
+ <td style="border: 1px solid white">
+
+
+</td>
+</tr>
+
+
+
+
  </table>
                   
                       
