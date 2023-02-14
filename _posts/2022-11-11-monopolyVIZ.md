@@ -10,12 +10,13 @@ image: monopoly/monopoly.jpg
 
 <p>
 A generative art engine that will create a unique image based on the outcome of a scramble for property on the real estate market.
-The canvas becomes a real estate market where the financially successful will increase their possesion while inevitably draining all other players, turning them into tiny dots before they disappear. 
+The canvas becomes a real estate market where the financially successful will determine which colors and patterns will dominate the piece.
 
-Once a ranking between the players has been established, it is almost impossible to shift the balance. Still the game makes sure the loosers have just enough to continue playing long after the winner is found.
+
 
 The algorithm follows the rules of Monopoly. Shapes represent the artefacts of the classic board game: the fields, players and buildings. 
 </p>
+
 
 
 
@@ -28,12 +29,12 @@ Your browser does not support the video tag.
 </div>
 <table>
   <tr>
-    <td >
+    <td style="border: 1px solid white">
 <img width="90%" height="auto" src = "assets/img/monopoly/posters/7.jpg"/>
 <img width="90%" height="auto" src = "assets/img/monopoly/posters/8.jpg"/>
 
 </td>
-<td>
+<td style="border: 1px solid white">
 
 <img width="90%" height="auto" src = "assets/img/monopoly/posters/9.jpg"/>
 <img width="90%" height="auto" src = "assets/img/monopoly/posters/10.jpg"/>
@@ -44,16 +45,26 @@ Your browser does not support the video tag.
 <a href="https://tessg.github.io/monopoly/" target="_blank">[Try it]</a>
 <p>
 
+<h3>What does equality look like?</h3>
+Occasionally no one manages to get a monopoly, the initial equality persists. Neither wealth or powerty exists. No houses will be build and nothing will stop the cirle of money changing hands. As new money is continually added to the system  and no one can drain the others, the solid primary colors of the players will eventually take over the entire screen.
 
 
-<h3>Hierarchy or Equlity</h3>
+<table>
+  <tr>
+    <td style="border: 1px solid white">
+<img width="100%" height="auto" src = "assets/img/monopoly/equal1.png"/>
+</td>
+   <td style="border: 1px solid white">
+<img width="100%" height="auto" src = "assets/img/monopoly/equal2.png"/>
+</td>
+ </tr>
+</table>
 
+<h3>And inequality?</h3>
+Once a ranking between the players has been established, it is almost impossible to shift the balance. Still embedded in the game mechanism, loosers are guarantied to have just enough to continue playing long after the winner is found. Meanwhile winners will continue increasing their possesion draining all other players and turning them into tiny dots before they disappear. 
+<img width="70%" height="auto" src = "assets/img/monopoly/inequality.png"/>
 
-Occasionally no one manages to get a monopoly, the initial equality persists. Neither wealth or powerty exists, and nothing can distrupt the cirle of money changing hands.
-<img width="100%" height="auto" src = "assets/img/monopoly/frame-75302022-11-27.png"/>
-
-
-
+<h3>Mid-game snapshots</h3>
 <table>
 
 <tbody>
@@ -76,9 +87,20 @@ Occasionally no one manages to get a monopoly, the initial equality persists. Ne
 
 <table>
 
+
+
 <tbody>
 <tr>
-<td  style="border: 1px solid white"><img src="assets/img/monopoly/final-7020-2022-12-01.png" width="100%" height="auto"></td>
+<td  style="border: 1px solid white"><img src="assets/img/monopoly/red1.png" width="100%" height="auto"></td>
+<td  style="border: 1px solid white"><img src="assets/img/monopoly/red2.png" width="100%" height="auto"></td>
+<td  style="border: 1px solid white"><img src="assets/img/monopoly/red3.png" width="100%" height="auto"></td>
+<td  style="border: 1px solid white"><img src="assets/img/monopoly/red4.png" width="100%" height="auto"></td>
+</tr>
+<tr>
+<td  style="border: 1px solid white"><img src="assets/img/monopoly/red5.png" width="100%" height="auto"></td>
+<td  style="border: 1px solid white"><img src="assets/img/monopoly/yellow1.png" width="100%" height="auto"></td>
+<td  style="border: 1px solid white"><img src="assets/img/monopoly/green1.png" width="100%" height="auto"></td>
+<td  style="border: 1px solid white"><img src="assets/img/monopoly/green2.png" width="100%" height="auto"></td>
 </tr>
 </tbody>
 </table>
