@@ -8,7 +8,12 @@ image: EKDecoded/EKDecoded.png
 
 ---
 
+<style>
+   img{
 
+      display: inline;
+   }
+</style>
 
 
 <p>70 years ago researcher, artist and healer Emma Kunz(1892–1963), left behind an amazing body of work,
@@ -69,17 +74,17 @@ This dimension of movement sheds light on the process with which the drawings we
   <tr>
    <td style="border: 1px solid white" >
       
-<img src="assets/img/EKDecoded/EK117.png" width="200px" height="auto">
+<img src="assets/img/EKDecoded/EK117.png" style="display:inline" width="100px" height="auto">
 
 
 </td>
 
 <td style="border: 1px solid white">
-<img src="assets/img/EKDecoded/EK1_error_small.png" width="300px" height="auto">
+<img src="assets/img/EKDecoded/EK1_error_small.png" style="display:inline" width="100px" height="auto">
 
 </td>
  <td style="border: 1px solid white">
-   <img src="assets/img/EKDecoded/EK1_error2.png" width="300px" height="auto">
+   <img src="assets/img/EKDecoded/EK1_error2.png" style="display:inline" width="100px" height="auto">
 
 </td>
 </tr>
@@ -89,16 +94,16 @@ This dimension of movement sheds light on the process with which the drawings we
    <td style="border: 1px solid white" >
       
 
-<img src="assets/img/EKDecoded/EK2_original.png" width="200px" height="auto">
+<img src="assets/img/EKDecoded/EK2_original.png" style="display:inline" width="100px" height="auto">
 
 </td>
 
 <td style="border: 1px solid white">
 
-<img src="assets/img/EKDecoded/EK2_error2.jpg" width="200px" height="auto">
+<img src="assets/img/EKDecoded/EK2_error2.jpg" style="display:inline" width="100px" height="auto">
 </td>
  <td style="border: 1px solid white">
-<img src="assets/img/EKDecoded/EK2_error4.png" width="200px" height="auto">
+<img src="assets/img/EKDecoded/EK2_error4.png" style="display:inline" width="100px" height="auto">
 
 
 </td>
@@ -109,13 +114,13 @@ This dimension of movement sheds light on the process with which the drawings we
    <td style="border: 1px solid white" >
       
 
-<img src="assets/img/EKDecoded/EK3_original.png" width="200px" height="auto">
+<img src="assets/img/EKDecoded/EK3_original.png" style="display:inline" width="100px" height="auto">
 
 </td>
 
 <td style="border: 1px solid white">
 
-<img src="assets/img/EKDecoded/EK3_error1.png" width="200px" height="auto">
+<img src="assets/img/EKDecoded/EK3_error1.png" style="display:inline" width="100px" height="auto">
 </td>
  <td style="border: 1px solid white">
 
@@ -173,11 +178,11 @@ Your browser does not support the video tag.
   <td style="border: 1px solid white">
 
 
-<img src="assets/img/EKDecoded/EKX_error_small.jpg" width="300px" height="auto">
+<img src="assets/img/EKDecoded/EKX_error_small.jpg" width="100px" height="auto">
 
 </td>
  <td style="border: 1px solid white">
-<img src="assets/img/EKDecoded/EK6_error.png">
+<img src="assets/img/EKDecoded/EK6_error.png" width="100px" height="auto">
 
 </td>
 </tr>

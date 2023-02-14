@@ -28,12 +28,12 @@ Your browser does not support the video tag.
 </div>
 <table>
   <tr>
-    <td style="border: 1px solid white">
+    <td >
 <img width="90%" height="auto" src = "assets/img/monopoly/posters/7.jpg"/>
 <img width="90%" height="auto" src = "assets/img/monopoly/posters/8.jpg"/>
 
 </td>
-<td style="border: 1px solid white">
+<td>
 
 <img width="90%" height="auto" src = "assets/img/monopoly/posters/9.jpg"/>
 <img width="90%" height="auto" src = "assets/img/monopoly/posters/10.jpg"/>
