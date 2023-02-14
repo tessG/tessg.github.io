@@ -113,8 +113,8 @@ This dimension of movement sheds light on the process with which the drawings we
 <tr>
    <td style="border: 1px solid white" >
       
-   <video height="300" width="300" autoplay controls>
-  <source src="./assets/img/EKDecoded/EK3_ani.mp4" type="video/mp4" poster="./assets/img/EKDecoded/EK3_original.png"/>
+   <video height="300" width="300" poster="./assets/img/EKDecoded/EK3_original.png" autoplay>
+  <source src="./assets/img/EKDecoded/EK3_ani.mp4" type="video/mp4" />
    
 Your browser does not support the video tag.
 </video>
@@ -145,8 +145,8 @@ Your browser does not support the video tag.
 
 <tr>
     <td style="border: 1px solid white">
-       <video height="300" width="300" autoplay controls>
-  <source src="./assets/img/EKDecoded/EK10.mp4" type="video/mp4" poster="./assets/img/EKDecoded/EK10_original.png"/>
+       <video height="300" width="300" poster="./assets/img/EKDecoded/EK10_original.png" controls>
+  <source src="./assets/img/EKDecoded/EK10.mp4" type="video/mp4" />
    
 Your browser does not support the video tag.
 </video>
