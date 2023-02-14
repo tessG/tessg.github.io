@@ -74,17 +74,17 @@ This dimension of movement sheds light on the process with which the drawings we
   <tr>
    <td style="border: 1px solid white" >
       
-<img src="assets/img/EKDecoded/EK117.png" style="display:inline" width="100px" height="auto">
+<img src="assets/img/EKDecoded/EK117.png" style="display:inline" width="300px" height="auto">
 
 
 </td>
 
 <td style="border: 1px solid white">
-<img src="assets/img/EKDecoded/EK1_error_small.png" style="display:inline" width="100px" height="auto">
+<img src="assets/img/EKDecoded/EK1_error_small.png" style="display:inline" width="300px" height="auto">
 
 </td>
  <td style="border: 1px solid white">
-   <img src="assets/img/EKDecoded/EK1_error2.png" style="display:inline" width="100px" height="auto">
+   <img src="assets/img/EKDecoded/EK1_error2.png" style="display:inline" width="300px" height="auto">
 
 </td>
 </tr>
@@ -94,16 +94,16 @@ This dimension of movement sheds light on the process with which the drawings we
    <td style="border: 1px solid white" >
       
 
-<img src="assets/img/EKDecoded/EK2_original.png" style="display:inline" width="100px" height="auto">
+<img src="assets/img/EKDecoded/EK2_original.png" style="display:inline" width="300px" height="auto">
 
 </td>
 
 <td style="border: 1px solid white">
 
-<img src="assets/img/EKDecoded/EK2_error2.jpg" style="display:inline" width="100px" height="auto">
+<img src="assets/img/EKDecoded/EK2_error2.jpg" style="display:inline" width="300px" height="auto">
 </td>
  <td style="border: 1px solid white">
-<img src="assets/img/EKDecoded/EK2_error4.png" style="display:inline" width="100px" height="auto">
+<img src="assets/img/EKDecoded/EK2_error4.png" style="display:inline" width="300px" height="auto">
 
 
 </td>
@@ -114,17 +114,17 @@ This dimension of movement sheds light on the process with which the drawings we
    <td style="border: 1px solid white" >
       
 
-<img src="assets/img/EKDecoded/EK3_original.png" style="display:inline" width="100px" height="auto">
+<img src="assets/img/EKDecoded/EK3_original.png" style="display:inline" width="300px" height="auto">
 
 </td>
 
 <td style="border: 1px solid white">
 
-<img src="assets/img/EKDecoded/EK3_error1.png" style="display:inline" width="100px" height="auto">
+<img src="assets/img/EKDecoded/EK3_error1.png" style="display:inline" width="300px" height="auto">
 </td>
  <td style="border: 1px solid white">
 
-   <video height="200" width="200" autoplay="autoplay">
+   <video height="300" width="300" autoplay controls>
   <source src="./assets/img/EKDecoded/EK3_ani.mp4" type="video/mp4"/>
    
 Your browser does not support the video tag.
@@ -178,11 +178,11 @@ Your browser does not support the video tag.
   <td style="border: 1px solid white">
 
 
-<img src="assets/img/EKDecoded/EKX_error_small.jpg" width="100px" height="auto">
+<img src="assets/img/EKDecoded/EKX_error_small.jpg" width="300px" height="auto">
 
 </td>
  <td style="border: 1px solid white">
-<img src="assets/img/EKDecoded/EK6_error.png" width="100px" height="auto">
+<img src="assets/img/EKDecoded/EK6_error.png" width="300px" height="auto">
 
 </td>
 </tr>
