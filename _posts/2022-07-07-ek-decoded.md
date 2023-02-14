@@ -113,8 +113,12 @@ This dimension of movement sheds light on the process with which the drawings we
 <tr>
    <td style="border: 1px solid white" >
       
+   <video height="300" width="300" autoplay controls>
+  <source src="./assets/img/EKDecoded/EK3_ani.mp4" type="video/mp4" poster="./assets/img/EKDecoded/EK3_original.png"/>
+   
+Your browser does not support the video tag.
+</video>
 
-<img src="assets/img/EKDecoded/EK3_original.png" style="display:inline" width="300px" height="auto">
 
 </td>
 
@@ -124,12 +128,8 @@ This dimension of movement sheds light on the process with which the drawings we
 </td>
  <td style="border: 1px solid white">
 
-   <video height="300" width="300" autoplay controls>
-  <source src="./assets/img/EKDecoded/EK3_ani.mp4" type="video/mp4"/>
-   
-Your browser does not support the video tag.
-</video>
 
+<img src="assets/img/EKDecoded/EK3_error2.png" style="display:inline" width="300px" height="auto">
 
 </td>
 </tr>
@@ -144,6 +144,14 @@ Your browser does not support the video tag.
 
 
 <tr>
+    <td style="border: 1px solid white">
+       <video height="300" width="300" autoplay controls>
+  <source src="./assets/img/EKDecoded/EK10.mp4" type="video/mp4" poster="./assets/img/EKDecoded/EK10_original.png"/>
+   
+Your browser does not support the video tag.
+</video>
+
+</td>
   <td style="border: 1px solid white">
 
 
@@ -151,7 +159,7 @@ Your browser does not support the video tag.
 
 </td>
  <td style="border: 1px solid white">
-<img src="assets/img/EKDecoded/EK8_error.png">
+<img src="assets/img/EKDecoded/EK10_error2.png" width="300px" height="auto">
 
 </td>
 </tr>
