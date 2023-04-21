@@ -9,24 +9,39 @@ image: monopoly/monopoly.jpg
 
 
 <p>
-A generative art engine that will create a unique image based on the outcome of a scramble for property on the real estate market.
-The canvas becomes a real estate market where the financially successful will determine which colors and patterns will dominate the piece.
+A genart engine that will create a unique image, based on the outcome of a scramble for property . 
+The algorithm follows the rules of capitalism, simplified by Monopoly, the board game. Shapes represent the artefacts of the game: fields, players and buildings. 
+
+
+The piece reflects on the mechanisms of greed, inequality and unfair advantages in a capitalist world. Aphorisms such as 'The rich getting richer', 'It is expensive to be poor', 'Greed is a bottomless pit' and 'The winner takes it all' is made explicit in this piece.
+The canvas becomes a market where the financially successful will determine what colours and patterns can occupy space.
+By winning the initial race of securing the most profitable assets, one player will start accumulating, while slowly draining the remaining players off their funds.
+The irrelevancy of the losers is clearlong before the game ends. It is a slow killing, painful to watch, dragging out only to satisfy the winner's lust for more.
+
+But sometimes, the enine shows a different, more social or egalitarian version of capitalism. This happens when everybody manages to secure themselves an equal income.  
+We then enter into an equilibrium, where money will shift hands perpetually.
+The common wealth of the players will inflate them all, to an extent where their bodies obstruct the view of the world completely.  
+This comments on the invasiveness of a civilisation obsessed with growth, that is leading us to over-consumption and our departure from nature.
 
 
 
-The algorithm follows the rules of Monopoly. Shapes represent the artefacts of the classic board game: the fields, players and buildings. 
 </p>
 
 
 
 
 <div style="text-align: center;">
+<a href="https://tessg.github.io/monopoly/">
+
 <video height="534" width="400" autoplay controls>
-  <source src="./assets/img/monopoly/monopoly_demo2.mp4" type="video/mp4"/>
-   
+  <source src="./assets/img/monopoly/monopoly_demo2.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
+</a>
 </div>
+
+
+
 <table>
   <tr>
     <td style="border: 1px solid white">

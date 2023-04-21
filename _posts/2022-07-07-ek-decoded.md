@@ -66,9 +66,8 @@ This dimension of movement sheds light on the process with which the drawings we
  </li>
                             
    <li>
-                                <strong>Stills of errors</strong> :
-      As I work errors occur, yielding compositions, that are simultaneously surprising, beautiful and telling in their departure from the divine response. 
-      I consider these as complementary output and works in their own right.
+<strong>Stills of errors</strong> :
+      As I work errors occur, yielding compositions, that are simultaneously surprising, beautiful and telling in their departure from the divine response. The pair become juxtapositions to Truth and Lie. I consider these as complementary output and works in their own right.
                             </li>
  <table>
   <tr>
@@ -110,10 +109,11 @@ This dimension of movement sheds light on the process with which the drawings we
 </tr>
 
 
+
 <tr>
    <td style="border: 1px solid white" >
       
-   <video height="300" width="300" poster="./assets/img/EKDecoded/EK3_original.png" autoplay>
+   <video height="300" width="300" poster="./assets/img/EKDecoded/EK3_original.png" controls>
   <source src="./assets/img/EKDecoded/EK3_ani.mp4" type="video/mp4" />
    
 Your browser does not support the video tag.
@@ -136,7 +136,29 @@ Your browser does not support the video tag.
 
 
 
+<tr>
+   <td style="border: 1px solid white" >
+      
+   <video height="300" width="300" poster="./assets/img/EKDecoded/EK8_original.png" controls>
+  <source src="./assets/img/EKDecoded/EK3_ani.mp4" type="video/mp4" />
+   
+Your browser does not support the video tag.
+</video>
 
+
+</td>
+
+<td style="border: 1px solid white">
+
+<img src="assets/img/EKDecoded/EK8_error.png" style="display:inline" width="300px" height="auto">
+</td>
+ <td style="border: 1px solid white">
+
+
+<img src="assets/img/EKDecoded/EK8_error2.png" style="display:inline" width="300px" height="auto">
+
+</td>
+</tr>
 
 
 
