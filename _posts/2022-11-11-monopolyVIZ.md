@@ -8,6 +8,8 @@ image: monopoly/monopoly.jpg
 ---
 
 
+
+<p><a href="https://tessg.github.io/monopoly/" target="_blank">[see it live]</a></p>
 <p>
 A genart engine that will create a unique image, based on the outcome of a scramble for property . 
 The algorithm follows the rules of capitalism, simplified by Monopoly, the board game. Shapes represent the artefacts of the game: fields, players and buildings. 
@@ -28,17 +30,6 @@ This comments on the invasiveness of a civilisation obsessed with growth, that i
 </p>
 
 
-
-
-<div style="text-align: center;">
-<a href="https://tessg.github.io/monopoly/">
-
-<video height="534" width="400" autoplay controls>
-  <source src="./assets/img/monopoly/monopoly_demo2.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
-</a>
-</div>
 
 
 
