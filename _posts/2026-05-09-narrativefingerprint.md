@@ -7,16 +7,26 @@ tags: [data viz, AI, vibe codinh]
 image: narrativefingerprint/narrativefingerprint.png
 ---
 
-As it's possible to train AI to place a pizza on a suitable surface in a picture of a living room, can we train it to place a given event in the narrative frame through which the story is
-generally perceived by us?
-The spatial knowledge that is triggered before placement of an object is intuitive in nature, and has to do with our physical senses.
-Our perception of events might likewise be intuitive, but simultaneously it is heavily shaped by our social and cultural programming - the ontologies we live by.
-Ioannis Siglidis, researcher in the Pioneer Center for AI in Copenhagen, believes that "being statistical sciences of perception, the "arts" and the "humanities" are ideal generators of machine learning problems"
-What inspires me most is his believe that "by operationalizing perceptual ontological questions, machine-learning turns modeling into ontology-in-action".
-It is the act of making philosophical commitments concrete and consequential. Making meta knowledge available and useful to an AI so it can learn to perceive something as abstract as an event.
+Narrative Fingerprint Explorer — a proof of concept
+Stumbling across Ioannis Siglidis's Hidden Objects project, I found myself asking a question it wasn't asking. 
+The project places objects in scenes — teaching a model where a pizza belongs in a room.
+What if the scene was an event, and the placement was narrative framing? 
+The cultural frames through which we perceive events are no less structured than a living room. 
+They are just harder to see, because we are inside them.
 
-Reading about Ioannis Siglidis's research project [Hidden Objects](https://hidden-objects.github.io/) and simultaneously itching to vibe with Claude Code,
-I got inspired to build an infrastructure POC for an AI assisted narrative framing of a given event based on soMe posts.
+Siglidis's own framing of his research made this feel worth pursuing (paraphrasing): _that by operationalising perceptual 
+and ontological questions, machine learning turns modelling into ontology-in-action, and that the humanities 
+— as statistical sciences of perception — are ideal generators of machine learning problems_.
+
+This is a proof of concept for making narrative structure visible and queryable. 
+It uses an explicit ontology as the lens through which a language model annotates posts about a given event 
+— producing what I am calling a narrative fingerprint. 
+The theoretical knowledge lives in a knowledge graph, not in model weights, so it remains inspectable, versionable, and contestable.
+I am not well versed in narrative theory — Claude suggested the frameworks by Entman and Greimas, and I am not able to 
+validate them independently. 
+
+_This was built with Claude's help from idea to implementation, driven partly by my curiosity about knowledge representation and graph technology, 
+and partly by an itch to vibe with Claude Code_.
 
 
 ⏺ Infrastructure
