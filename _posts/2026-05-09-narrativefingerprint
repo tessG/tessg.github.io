@@ -18,3 +18,39 @@ It is the act of making philosophical commitments concrete and consequential. Ma
 
 Reading about Ioannis Siglidis's research project [Hidden Objects](https://hidden-objects.github.io/) and simultaneously itching to vibe with Claude Code,
 I got inspired to build an infrastructure POC for an AI assisted narrative framing of a given event based on soMe posts.
+
+
+⏺ Infrastructure
+  - GraphDB 10 on DigitalOcean (Docker, Ubuntu 24, 2GB RAM + swap) — SPARQL endpoint at GRAPHDB_URL/repositories/GRAPHDB_REPO
+  - Next.js 16 App Router, TypeScript, Tailwind, running locally via npm run dev
+
+  Ontology (nar: prefix http://narratives.poc/ontology#)
+  - 4 abstract classes: NarrativeRole, FramingFunction, AffectiveRegister, CausalStructure
+  - 18 theory-level tags (Hero, Villain, Victim, Outrage, SystemicCause, etc.)
+  - nar:Post — content, date, platform, language, region, event
+  - nar:Annotation — links post → tag (one annotation per tag per post)
+  - nar:Event — groups posts into named events (BLM Denmark 2020, Gaza 2024, Ukraine 2022)
+
+  Pipeline (pipeline/)
+  - scrape.ts — Reddit OAuth2, fetches top posts for an event's subreddit → pipeline/data/posts.json
+  - annotate.ts — Claude Haiku classifies each post against the 18-tag ontology → pipeline/data/annotated.json (resumable)
+  - ingest.ts — batch SPARQL UPDATE into GraphDB, writes event node + post + annotation triples
+
+  Shared config (lib/)
+  - events.ts — event registry (URI, label, subreddit, language, region) imported by both pipeline and API routes
+  - sparql.ts — fetch wrapper for GraphDB SPARQL queries
+
+  API routes (app/api/) — all accept ?event=<uri> query param
+  - tag-frequency — tag label × annotation count
+  - cooccurrence — tag pair × post count
+  - temporal-arc — date × causal tag × count (SystemicCause vs IndividualCause over time)
+  - tension-posts — posts carrying contradictory tag combinations (Hero+Disgust, Villain+Solidarity, etc.)
+  - narrative-graph — theory nodes weighted by annotation count + co-occurrence edges
+
+  Dashboard (app/)
+  - Event selector — drives all data fetches; reads from lib/events.ts
+  - NarrativeGraphView — p5.js force-directed graph, abstract nodes at center, theory nodes in periphery weighted by annotation count
+  - TagFrequencyView — bar chart of tag usage
+  - FrameShiftView — temporal arc of causal framing
+  - CooccurrenceView — tag co-occurrence
+  - TensionPostsView — contradictory posts feed
