@@ -5,7 +5,6 @@ author: "Tess Gaston"
 categories: AI assisted data analysis
 tags: [data viz, AI, vibe codinh]
 image: narrativefingerprint/narrativefingerprint.png
-
 ---
 
 As it's possible to train AI to place a pizza on a suitable surface in a picture of a living room, can we train it to place a given event in the narrative frame through which the story is
