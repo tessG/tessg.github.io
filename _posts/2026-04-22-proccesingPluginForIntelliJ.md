@@ -5,7 +5,9 @@ author: "Tess Gaston"
 categories: tool, plugin
 tags: [processing, tool, plugin, IntelliJ]
 image: ppfi/ppfi.png
----
+--- 
+
+
 I love Processing for sketching, but I also love IntelliJ for developing. It enhances productivity significantly, and once you are used to the features, you will probably find it hard to code anything substantial in the lightweight IDE made for Processing.
 For years that meant I had to manually add the Processing core.jar file to any project I was working on and manipulate the main method and all kinds of stuff to get my sketch to compile in IntelliJ.
 I saw no generator for starting a Processing project in the start new project pane, so eventually descided I would have to build one that would make it easy to sketch in a high performing IDE.
